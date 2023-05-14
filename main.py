@@ -5,6 +5,10 @@ def len_of_list(some_list):
     return list_len
 
 
+def fitst_remote_func():
+    pass
+
+
 def count_elem_in_list(c_elem, some_list):
     counter = 0
     for elem in some_list:
